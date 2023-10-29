@@ -1,0 +1,8 @@
+main1.tag = personal-infomations
+outer1.tag = personal-infomation
+inner1.tag1 = 連番
+inner1.tag2 = 氏名
+inner1.tag3 = 氏名_カタカナ
+inner1.tag4 = 性別
+inner1.tag5 = 電話番号
+inner1.tag6 = 生年月日
